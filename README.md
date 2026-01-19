@@ -31,7 +31,7 @@
 </div>
 <br>
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 ### Experiencia de Tipado
 *   **Diseño Minimalista**: Interfaz oscura ("Dark Mode") con acentos neón para reducir la fatiga visual y mantener la concentración.
@@ -50,7 +50,7 @@
 
 ---
 
-## ⌨️ Atajos de Teclado
+##  Atajos de Teclado
 
 | Acción | Atajo |
 | :--- | :--- |
@@ -60,7 +60,7 @@
 
 ---
 
-## 📦 Instalación (Linux)
+##  Instalación (Linux)
 
 FinType se distribuye como un archivo **AppImage** autocontenido.
 
